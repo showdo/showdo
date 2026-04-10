@@ -14,9 +14,9 @@
 - 👤 我的TG：[@Q1udaoyu](https://t.me/Q1udaoyu)
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=showdo&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1775811496&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=showdo&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1777260249&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=showdo&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&time=1775811496&hide_border=true&exclude_forks=true" alt="languages graph" />
+  <img height="165" src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=showdo&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&time=1777260249&hide_border=true&exclude_forks=true" alt="languages graph" />
 </div>
 
 <div align="center">
