@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=showdo&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 -->
 
-这里是秋刀鱼，一名业余安卓开发/内核技术爱好者。 ~~(不是什么频道)~~
+这里是秋刀鱼，一名业余安卓开发/内核技术爱好者。
 
 - 🔭 目前主攻方向：安卓/Linux内核开发，自动化工具/流程优化
 - 🌱 擅长的语言：C / C++ / Shell / Python / Java
