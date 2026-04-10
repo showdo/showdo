@@ -8,10 +8,10 @@
 - 🔭 目前主攻方向：安卓/Linux内核开发，自动化工具/流程优化
 - 🌱 擅长的语言：C / C++ / Shell / Python / Java
 - ⚡ 主要开发维护的项目：[OnePlus/Realme_6系内核构建](https://github.com/qdykernel/Build_Oneplus_Realme_Action), [Lenovo_6系内核构建](https://github.com/qdykernel/Build_Lenovo_sm8750), [Baseband Guard基带守护](https://github.com/vc-teahouse/Baseband-guard)等
- 📫 我的酷安ID：[@Q1udaoyu](https://www.coolapk.com/u/Q1udaoyu)
- 💬 Telegram频道：[@qdykernel](https://t.me/qdykernel)
- 🗨️ Telegram群组：[@QDYGKI](https://t.me/QDYGKI)
- 👤 我的TG：[@Q1udaoyu](https://t.me/Q1udaoyu)
+- 📫 我的酷安ID：[@Q1udaoyu](https://www.coolapk.com/u/Q1udaoyu)
+- 💬 Telegram频道：[@qdykernel](https://t.me/qdykernel)
+- 🗨️ Telegram群组：[@QDYGKI](https://t.me/QDYGKI)
+- 👤 我的TG：[@Q1udaoyu](https://t.me/Q1udaoyu)
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=showdo&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1775811496&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
